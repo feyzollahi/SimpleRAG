@@ -17,7 +17,7 @@ Advanced document Q&A with semantic search, reranking, and hybrid retrieval.
 
    ```bash
    git clone https://github.com/feyzollahi/SimpleRAG.git
-   cd SimpleRAG/pythonProject
+   cd SimpleRAG
    ```
 
 2. **Install dependencies**
