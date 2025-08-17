@@ -16,7 +16,7 @@ Advanced document Q&A with semantic search, reranking, and hybrid retrieval.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/SimpleRAG.git
+   git clone https://github.com/feyzollahi/SimpleRAG.git
    cd SimpleRAG/pythonProject
    ```
 
