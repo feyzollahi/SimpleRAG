@@ -1,0 +1,31 @@
+[project]
+name = "simplerag"
+version = "0.1.0"
+description = "simpleRAG"
+authors = [
+    {name = "MahdiFeyzollahi"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12, <3.14"
+dependencies = [
+    "torch (>=2.8.0,<3.0.0)",
+    "transformers (>=4.55.2,<5.0.0)",
+    "langchain (>=0.3.27,<0.4.0)",
+    "faiss-cpu (>=1.12.0,<2.0.0)",
+    "sentence-transformers (>=5.1.0,<6.0.0)",
+    "streamlit (>=1.48.1,<2.0.0)",
+    "langchain-community (>=0.3.27,<0.4.0)",
+    "accelerate (>=1.10.0,<2.0.0)",
+    "debugpy (>=1.8.16,<2.0.0)",
+    "pydevd-pycharm (>=252.25557.35,<253.0.0)",
+    "langchain-huggingface (>=0.3.1,<0.4.0)",
+    "rank-bm25 (>=0.2.2,<0.3.0)",
+    "pypdf (>=6.0.0,<7.0.0)",
+    "nltk (>=3.9.1,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

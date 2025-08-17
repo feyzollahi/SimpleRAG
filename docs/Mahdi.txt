@@ -1,0 +1,3 @@
+Hello, I am Mahdi
+Mahdi was graduated from University of Tehran. his branch is Computer engineering with artificial intelligence .
+Mahdi is searching a good job . one of his favorite job is implementing RAG.
